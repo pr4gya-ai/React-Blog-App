@@ -26,7 +26,7 @@ Installation ⚙️
 
 Clone the repository:
 
-git clone https://github.com/your-username/react-mini-blog.git
+git clone https://github.com/pr4gya-ai/React-Blog-App
 
 
 Navigate to the project folder:
